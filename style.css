@@ -1,0 +1,57 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    color: blue;
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul {
+    font-size: xx-large;
+    color: aqua;
+}
+
+span {
+    color: green;
+    background-color: crimson;
+}
+
+#test-id {
+    color: goldenrod;
+    background-color: cornflowerblue;
+}
+
+.test-p {
+    color: blueviolet;
+    background-color: aquamarine;
+}
+.test-class1 {
+        color: black;
+            background-color:white;
+}
+
+.test-class2 {
+    color: white;
+    background-color: black;
+}
+.test-a {
+        color: red;
+            background-color: green;
+}
+a>b {
+        color: white;
+            background-color: black;
+}
+a {
+        color: black;
+            background-color: white;
+}
+.test-p2 {
+            color: coral;
+                background-color: chartreuse;
+}
+
+
